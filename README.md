@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm a 3rd year Computer Science engineer with a passion for Blockchain and Cybersecurity.   
 I also occasionally work on building websites and open source softwares.    
 
-**🔭 My current work**
+**🔭 I’m currently working on**
 
 * Making my final year project.
 * Working with [ACM PESU ECC](https://github.com/acmpesuecc).     
