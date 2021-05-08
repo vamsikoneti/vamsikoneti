@@ -47,6 +47,3 @@ I also occasionally work on building websites and open source softwares.
 * I play the keyboard sometimes
 * I love cooking!    
 
-
-![](https://visitor-badge.laobi.icu/badge?page_id=vamsikoneti.vamsikoneti)    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vamsikoneti&theme=tokyonight)
