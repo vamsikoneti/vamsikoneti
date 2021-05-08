@@ -18,18 +18,18 @@ Here are some ideas to get you started:
 I'm a 3rd year Computer Science engineer with a passion for Blockchain and Cybersecurity.   
 I also occasionally work on building websites and open source softwares.    
 
-** 🔭 My current work **
+**🔭 My current work**
 
 * Making my final year project.
-* Working with [ACM PESU ECC] (https://github.com/acmpesuecc).     
+* Working with [ACM PESU ECC](https://github.com/acmpesuecc).     
 
 
-** 🌱 I’m currently learning **
+**🌱 I’m currently learning**
 
 * Angular
 * Dynamic Programming with Python  
 
-** 💬 Ask me about **
+**💬 Ask me about**
 
 * Blockchain and Solidity
 * Network and System Security
@@ -37,11 +37,11 @@ I also occasionally work on building websites and open source softwares.
 * Python   
 
 
-** 📫 Get in Touch **
+**📫 Get in Touch**
 
 * Email: [vamsikonetik@gmail.com](vamsikonetik@gmail.com)  
 
-** ⚡ Fun fact **
+**⚡ Fun fact**
 
 * I play the keyboard sometimes
 * I love cooking!    
