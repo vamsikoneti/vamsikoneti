@@ -40,8 +40,13 @@ I also occasionally work on building websites and open source softwares.
 **📫 Get in Touch**
 
 * Email: [vamsikonetik@gmail.com](vamsikonetik@gmail.com)  
+* Check out my blogs on [Medium](https://medium.com/@vamsikoneti)!
 
 **⚡ Fun fact**
 
 * I play the keyboard sometimes
 * I love cooking!    
+
+
+![](https://visitor-badge.laobi.icu/badge?page_id=vamsikoneti.vamsikoneti)    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vamsikoneti&theme=tokyonight)
