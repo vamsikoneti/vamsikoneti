@@ -1,4 +1,4 @@
-### Hi there 👋
+###  Namaskara! 👋
 
 <!--
 **vamsikoneti/vamsikoneti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a 3rd year Computer Science engineer with a passion for Blockchain and Cybersecurity.   
+I also occasionally work on building websites and open source softwares.    
+
+** 🔭 My current work **
+
+* Making my final year project.
+* Working with [ACM PESU ECC] (https://github.com/acmpesuecc).     
+
+
+** 🌱 I’m currently learning **
+
+* Angular
+* Dynamic Programming with Python  
+
+** 💬 Ask me about **
+
+* Blockchain and Solidity
+* Network and System Security
+* HTML, CSS, JS, including the frontend JS libraries React and Angular
+* Python   
+
+
+** 📫 Get in Touch **
+
+* Email: [vamsikonetik@gmail.com](vamsikonetik@gmail.com)  
+
+** ⚡ Fun fact **
+
+* I play the keyboard sometimes
+* I love cooking!    
