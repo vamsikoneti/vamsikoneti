@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a 3rd year Computer Science engineer with a passion for Blockchain and Cybersecurity.   
+I'm a 4th year Computer Science engineer with a passion for Blockchain and Cybersecurity.   
 I also occasionally work on building websites and open source softwares.    
 
 **🔭 I’m currently working on**
