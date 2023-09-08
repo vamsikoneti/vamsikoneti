@@ -15,25 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a 4th year Computer Science engineer with a passion for Blockchain and Cybersecurity.   
-I also occasionally work on building websites and open source softwares.    
+I'm a Security Engineer with a passion for threat analysis and secure development.   
+I also occasionally work on building products and open source softwares.    
 
 **🔭 I’m currently working on**
 
-* Making my final year project.
-* Working with [ACM PESU ECC](https://github.com/acmpesuecc).     
+* Building my website
+* Keeping up with my Master's coursework
 
 
 **🌱 I’m currently learning**
 
-* Angular
+* Penetration Testing and Vulnerability Analysis
 * Dynamic Programming with Python  
 
 **💬 Ask me about**
 
-* Blockchain and Solidity
+* Threat Analysis
 * Network and System Security
-* HTML, CSS, JS, including the frontend JS libraries React and Angular
+* Kali Linux and security tools
 * Python   
 
 
